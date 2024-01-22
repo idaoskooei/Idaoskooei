@@ -15,8 +15,5 @@ I'm Ida, an Android Developer passionate about creating innovative and user-frie
 
 ### 📫 Connect with Me
 
-- **Instagram:** 
-- **LinkedIn:** [IDA Android Developer](https://ca.linkedin.com/in/ida-oskooei-android-dev)
-- **GitHub:** [IDA-GitHub](https://github.com/idaoskooei/)
-- **Medium:** [ida oskooei](https://medium.com/@idaoskooei)
+[Instagram](https://www.instagram.com/ida.oskooei/?igsh=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)|[LinkedIn](https://ca.linkedin.com/in/ida-oskooei-android-dev)|[GitHub](https://github.com/idaoskooei/)|[Medium](https://medium.com/@idaoskooei)
 
