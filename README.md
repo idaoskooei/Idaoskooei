@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**idaoskooei/Idaoskooei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ida, an Android Developer passionate about creating innovative and user-friendly mobile applications. 
 
-Here are some ideas to get you started:
+### ✍🏻 Recent Articles on Medium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **Effortless Pagination: Jetpack Compose and Paging Library Unleashed**
+   - [Read Article](https://medium.com/@idaoskooei/effortless-pagination-jetpack-compose-and-paging-library-unleashed-06fd340a1617)
+
+2. **Modernizing Android UIs: A Guide to Migrating XML Views to Jetpack Compose**
+   - [Read Article](https://medium.com/@idaoskooei/modernizing-android-uis-a-guide-to-migrating-xml-views-to-jetpack-compose-d36d286d9b62)(#)
+
+3. **API call Using Retrofit Library in Android (Java) for beginners**
+   - [Read Article](https://medium.com/@idaoskooei/api-call-using-retrofit-library-in-android-java-for-beginners-b5f7b0a690bd)
+
+### 📫 Connect with Me
+
+- **Instagram:** 
+- **LinkedIn:** [IDA Android Developer](https://ca.linkedin.com/in/ida-oskooei-android-dev)
+- **GitHub:** [IDA-GitHub](https://github.com/idaoskooei/)
+- **Medium:** [ida oskooei](https://medium.com/@idaoskooei)
+
