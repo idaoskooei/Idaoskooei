@@ -9,6 +9,8 @@ I'm Ida, an Android Developer passionate about creating innovative and user-frie
 - [**Modernizing Android UIs: A Guide to Migrating XML Views to Jetpack Compose**](https://medium.com/@idaoskooei/modernizing-android-uis-a-guide-to-migrating-xml-views-to-jetpack-compose-d36d286d9b62)(#)
 
 - [**API call Using Retrofit Library in Android (Java) for beginners**](https://medium.com/@idaoskooei/api-call-using-retrofit-library-in-android-java-for-beginners-b5f7b0a690bd)
+  
+- [**Building Better UIs with Jetpack Compose: Best Practices and Techniques**](https://medium.com/@idaoskooei/building-better-uis-with-jetpack-compose-best-practices-and-techniques-a1c8953bc5b8)
 
 ### 📫 Connect with Me
 
